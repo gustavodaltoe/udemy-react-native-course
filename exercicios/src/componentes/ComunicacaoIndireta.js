@@ -25,7 +25,7 @@ export default class TextoSincronizado extends Component {
             <View>
                 <Text style={Padrao.font40}>{this.state.texto}</Text>
                 <Entrada texto={this.state.texto}
-                    chamarQuandoMudar={this.alterarTexto} />
+                    chamarQuandoMudar={this.alterarText} />
             </View>
         )
     }
