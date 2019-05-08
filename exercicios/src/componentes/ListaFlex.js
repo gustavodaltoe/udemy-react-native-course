@@ -33,7 +33,7 @@ const itemEstilo = {
     // Flex
     alignItems: 'center',
     flexDirection: 'row',
-    justifyContent: 'space-between'
+    justifyContent: 'space-between' //space-around, center, flex-begin, flex-end
 }
 
 export const Aluno = props =>
