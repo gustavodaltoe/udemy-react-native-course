@@ -6,9 +6,9 @@
 
 ## 2. Instalar o Nodejs e npm
 ###### As versões utilizadas aqui foram: nodejs 10.16.0 e npm 6.9.0
-**No Windows:**
+        **No Windows:**
         2.1 https://nodejs.org/en/download/
-**No Linux (testado no mint)**
+        **No Linux (testado no mint)**
         2.1 Abra o console
 
         2.2 apt-get update
